@@ -1,0 +1,45 @@
+body{
+    background-color:lightgray;
+    font-family:sans-serif;
+}
+
+.container{
+    box-sizing: border-box;
+    width:500px;
+    height:400px;
+    background-color:#ffff;
+    margin:140px auto;
+    padding:18px 0;
+    box-shadow: 0 0 15px  #7a7979;
+    border-radius: 10px;
+}
+
+.photo{
+    width:150px;
+    height: 150px;
+    display: block;
+    margin: 20px auto 25px auto;
+    border:2px gray dashed;
+    border-radius: 50%;
+}
+
+.one{
+    width:106px;
+    border-bottom: 5px lightgray solid;
+    margin: auto;
+    font-size:20px;
+    color:#7a7979;
+}
+.two{
+     text-align:center;
+     color:#7a7979;
+}
+
+.social{
+    background-color:lightgray;
+    text-align:center;
+}
+
+.social img{
+    margin:0 5px;
+}
